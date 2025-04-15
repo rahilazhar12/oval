@@ -11,7 +11,7 @@ const contactItems = [
   {
     icon: <FaMapMarkerAlt className="text-blue-600 text-2xl mt-1" />,
     title: "Address",
-    content: ["3040 Oak Hampton Way, Duluth USA"],
+    content: ["3040 Oak Hampton way, Duluth GA 30096 USA"],
   },
   {
     icon: <FaPhoneAlt className="text-blue-600 text-2xl mt-1" />,

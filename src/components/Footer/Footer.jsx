@@ -85,7 +85,7 @@ export default function Footer() {
         <div>
           <h2 className="font-bold mb-4">CONTACT</h2>
           {/* <p>Reactorweg 151</p> */}
-          <p>3040 Oak Hampton way, Duluth USA</p>
+          <p>3040 Oak Hampton way, Duluth GA 30096 USA</p>
           <p>+1 617-682-6354</p>
           <p>+1 305-924-5585</p>
           <p>ovalindustrials1@gmail.com</p>

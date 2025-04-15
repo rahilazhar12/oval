@@ -9,6 +9,14 @@ import ofb2 from "../../../assets/Images/ofb2.jpg";
 import ofb3 from "../../../assets/Images/ofb3.jpg";
 import ofb4 from "../../../assets/Images/ofb4.jpg";
 
+import ofi1 from "../../../assets/Images/ofi1.jpg";
+import ofi2 from "../../../assets/Images/ofi2.jpg";
+import ofi3 from "../../../assets/Images/ofi3.jpg";
+import ofi4 from "../../../assets/Images/ofi4.jpg";
+
+
+
+
 const categories = [
   {
     title: "Offset Printing Machines",
@@ -29,10 +37,10 @@ const categories = [
     description:
       "Vibrant, long-lasting inks suitable for all types of offset printing environments.",
     images: [
-      "/images/ink1.jpg",
-      "/images/ink2.jpg",
-      "/images/ink3.jpg",
-      "/images/ink4.jpg",
+      ofi1,
+      ofi2,
+      ofi3,
+      ofi4,
     ],
     gradient: "from-yellow-100 via-white to-orange-100",
   },

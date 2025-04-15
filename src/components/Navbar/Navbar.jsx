@@ -1,13 +1,14 @@
 import React from "react";
 import { FaSearch } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import logo from '../../assets/Images/logo.png'
 
 const Navbar = () => {
   return (
     <nav className="w-full px-4 py-4 md:px-8 lg:px-16 flex flex-wrap items-center justify-between shadow-md bg-white">
       {/* Logo */}
       <div className="flex items-center gap-2">
-        <img src="/logo.png" alt="logo" className="h-8 w-auto" />
+        <img src={logo} alt="logo" className="h-8 w-auto" />
         <span className="text-xl font-bold text-black">Oval Industrials</span>
       </div>
 

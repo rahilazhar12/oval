@@ -21,7 +21,7 @@ const categories = [
   {
     title: "Offset Printing Machines",
     description:
-      "Explore our wide range of high-performance used offset printing machines sourced.",
+      "Explore our wide range of high-performance used offset printing machines",
     images: [ofp1, ofp2, ofp3, ofp4],
     gradient: "from-cyan-100 via-white to-blue-100",
   },

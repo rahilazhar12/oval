@@ -17,7 +17,7 @@ export default function Footer() {
         <div className="space-y-6">
           <h1 className="text-3xl font-bold">Oval Industrials</h1>
           <div>
-            <p className="font-semibold">JOIN THE Oval Industrials COMMUNITY</p>
+            <p className="font-semibold">Join the Oval Industrials Community</p>
             <button
               className="text-white px-6 py-2 mt-3 rounded-xl font-medium hover:brightness-110 transition-all"
               style={{ backgroundColor: "#43B02A" }}
@@ -59,7 +59,6 @@ export default function Footer() {
           <h2 className="font-bold mb-4">PRODUCTS</h2>
           <ul className="space-y-2">
             <li>K-Supply</li>
-            <li>ICT Solutions</li>
             <li>Postpress</li>
             <li>Case Studies</li>
             <li>Downloads</li>

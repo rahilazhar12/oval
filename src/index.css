@@ -1,1 +1,44 @@
 @import "tailwindcss";
+
+/* components/Loading.css */
+.loading-container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+}
+
+.spinner-ring {
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+
+.spinner-ring::before {
+  content: "";
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid #ccc;
+  border-top-color: #3498db; /* blue spinner top */
+  animation: spin 1.2s linear infinite;
+}
+
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80px;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

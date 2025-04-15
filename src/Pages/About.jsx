@@ -26,7 +26,7 @@ const sections = [
         details: [
           "Function: Transfer ink from plate to substrate.",
           "Types: Compressible blankets for various papers & machines.",
-          "Brands: GAFF, Meiji, Kinyo.",
+          "Brands: GAFF, Meiji, Kinyo and many others",
         ],
       },
       {
@@ -34,7 +34,6 @@ const sections = [
         details: [
           "Purpose: Ink and dampening solution transfer.",
           "Materials: Neoprene and other rubber compounds.",
-          "Suppliers: ABC Rubber Rollers, compatible with Komori, Roland, etc.",
         ],
       },
     ],
@@ -47,7 +46,6 @@ const sections = [
         details: [
           "Role: Maintain ink-water balance.",
           "Variants: Alcohol-based & alcohol-free types.",
-          "Suppliers: Afosol and others.",
         ],
       },
       {
@@ -62,7 +60,6 @@ const sections = [
         details: [
           "Use: Clean rollers, blankets, etc.",
           "Types: Manual, automatic, eco-friendly.",
-          "Suppliers: Orient NexGen and others.",
         ],
       },
       {
@@ -83,7 +80,6 @@ const sections = [
         details: [
           "Items: Solvents, roller cleaners, wipes, etc.",
           "Features: Low-lint, high-strength.",
-          "Suppliers: Soonerclean® and others.",
         ],
       },
       {
